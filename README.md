@@ -1,4 +1,4 @@
-# doorController [![Build Status](https://travis-ci.org/AndrewSerie/doorController.svg)](https://travis-ci.org/AndrewSerie/doorController/)
+# Door Controller [![Build Status](https://travis-ci.org/AndrewSerie/doorController.svg)](https://travis-ci.org/AndrewSerie/doorController/)
 
 Door Controller is an arduino program written to feed data to the NodeMCU LUA ESP8266 module for status updates and other neat things.
 
